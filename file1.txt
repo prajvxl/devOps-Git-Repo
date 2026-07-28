@@ -1,7 +1,11 @@
+
 Line edited on main and conflict-branch
 Line edited on main
 
 Line edited on conflict-branch
+
+
+Line edited on main
 
 This is our 2nd experiment of DevOps
 This is a new feature

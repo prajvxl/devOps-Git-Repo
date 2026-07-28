@@ -1,2 +1,3 @@
 Hello Git
 This is our 2nd experiment of DevOps
+This is a new feature
